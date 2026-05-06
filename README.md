@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm OMAR
 
-<!--
-**ramooma/ramooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Developer | Computer Engineering Student 
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a 4th-year Computer Engineering student based in Istanbul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me & My Journey
+
+- 🎓 Currently studying **Computer Engineering** at Esenyurt University.
+- 💻 I have a solid foundation in **HTML & CSS**, and I am actively expanding my **JavaScript** skills.
+- 🚀 **Goal:** Evolving into a **Full-Stack Developer** by continuously building and learning.
+- 🧠 **Current Interests:** I am fascinated by the intersection of AI and web. Currently exploring **Python**, **OpenCV**, and **MediaPipe** for computer vision, alongside 3D web concepts.
+
+
+### 🛠️ Tech Stack & Exploring
+
+- **Frontend Foundation:** HTML5, CSS3, JavaScript (Learning & Growing)
+- **Exploring/Interests:** Python, OpenCV, MediaPipe, 3D Web Tools
+- **Tools:** Git, GitHub, VS Code
+
+### ⚡ Beyond the Screen
+
+
+- ⚽ Former High School Football Team Captain 
+- ♟️ Chess Enthusiast
+- 🎮 Gamer
+
+### 📫 Let's Connect! 
+ramoomar989@gmail.com
+
+
