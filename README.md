@@ -21,7 +21,7 @@ Welcome to my GitHub! I am a 4th-year Computer Engineering student based in Ista
 ### ⚡ Beyond the Screen
 
 
-- ⚽ Former High School Football Team Captain 
+- ⚽ High School Football Team Captain 
 - ♟️ Chess Enthusiast
 - 🎮 Gamer
 
